@@ -1,0 +1,1 @@
+print('Heute ist Montag, der 16.07.2018');
